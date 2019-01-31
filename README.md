@@ -47,7 +47,7 @@ A dummy classifier was chosen for this study and achieved an accuracy of 0.34%. 
 | Support Vector Machine (SVM)     | 0.5484        |
 | Multinomial Naive Bayes     | 0.5594   |
 | Naive Bayes Bernoulli     | 0.5636   |
-| Logistic Regression     | 0.5743   |
+| Logistic Regression     | **0.5743**   |
 | Gradient Boosting     | 0.5618   |
 | Decision Tree     | 0.5185   |
 | Stochastic Gradient Descent     | 0.5545   |
