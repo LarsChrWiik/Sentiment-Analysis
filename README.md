@@ -92,3 +92,5 @@ This prediction model would be ranked as number 357 by comparing the result to t
 5. Nakov. P, (Oct, 2017), Semantic Sentiment Analysis of Twitter Data. arXiv preprint arXiv:1710.01492.
 6. Kharde. V, Sonawane. S, (April, 2016), Sentiment Analysis of Twitter Data: A Survey of Techniques. Volume 139 – No.11 arXiv preprint arXiv:1601.06971.
 7. Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher D. Manning, Andrew Y. Ng, and Christopher Potts: ‘Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank’, in: Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing, pp. 1631–1642, Seattle, WA, USA, 2013.
+
+© Lars Christian Wiik, 2018
