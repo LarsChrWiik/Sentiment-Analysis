@@ -1,6 +1,6 @@
 # Sentiment Analysis - Kaggle competition “Sentiment Analysis on Movie Reviews”
 
-### Abstract
+## Abstract
 This project presents a survey regarding sentiment analysis on the Rotten Tomatoes dataset from the Kaggle competition “Sentiment Analysis on Movie Reviews”, which was arranged between 28/2/2014 to 28/2/2015. A comparison of different machine learning algorithm is presented in addition to a to a state-of-the-art comparison. The paper presents how a logistic regression classifier is able to achieve 61.5% accuracy and outperform more than half of the Kaggle competitors.
 
 ## The Dataset
